@@ -31,3 +31,17 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Binary Targets
+
+romtool
+emutest
+
+# Test files
+
+test.c
+test
+
+# Documentation
+
+doc/
